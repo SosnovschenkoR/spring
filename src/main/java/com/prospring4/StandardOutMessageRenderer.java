@@ -1,4 +1,4 @@
-package com.apress.prospring4.ch2;
+package com.prospring4;
 
 import org.springframework.beans.factory.annotation.Autowired;
 
